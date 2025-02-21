@@ -1,4 +1,4 @@
-The Simpsons: Hit and Run - DualShock1 patch
+PlayStation2 The Simpsons: Hit and Run - DualShock1 patch
 --------------------------------------------
 
 These patches allow you to use a Ps1 DualShock 1 analog controller with the game.
